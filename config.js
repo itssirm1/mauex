@@ -38,7 +38,7 @@ module.exports = {
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.6",
-  caption:process.env.CAPTION || "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐈𝐑𝐌²²¹-𝐌𝐃™*\n*ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ* • 𝟭𝟰/𝟭𝟮/𝟮𝟬𝟮𝟯" ,// ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『Follow • 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏』*\n https://x.com/NSirm5?s=09"),
+  caption:process.env.CAPTION || "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐈𝐑𝐌²²¹-𝐌𝐃™*\n*ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ* • 𝟭𝟰/𝟭𝟮/𝟮𝟬𝟮𝟯" ,// ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『Follow • 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏』*\n https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏"),
 
  
   author: process.env.PACK_AUTHER || "Sirm-MD",
