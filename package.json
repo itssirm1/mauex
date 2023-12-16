@@ -1,7 +1,7 @@
 {
-   "name": "suhail-md",
+   "name": "sirm-md",
    "version": "1.2.6",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏.",
    "main": "lib/client.js",
    "type": "commonjs",
    "license": "GPL-3.0",
@@ -9,7 +9,7 @@
              "start": "pm2 start lib/client.js --deep-monitoring --attach --name Suhail",
              "stop": "pm2 stop Suhail"
    },
-   "author": "SuhailTechInfo",
+   "author": "𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏",
 
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,10 +68,10 @@
    },
    "repository": {
              "type": "git",
-             "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+             "url": "git+https://github.com/kimsirm/Sirm-Md.git"
    },
    "bugs": {
-             "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
+             "url": "https://github.com/kimsirm/Sirm-Md/issues"
    },
-   "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+   "homepage": "https://github.com/kimsirm/Sirm-Md#readme"
 }
