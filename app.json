@@ -1,14 +1,14 @@
 {
-  "name": "suhail-md",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "name": "sirm-md",
+  "description": "I am Sirm-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "logo": "https://i.imgur.com/AqFUKAm.jpeg",
+  "keywords": ["whatsappbot", "sirmMd", "sirm Md bot", "Sirm-Md", "SirmMdWhatsaooBot", "SirmWaBot","SirmMD","Sirm Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Tech Info",
+      "value": "𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏",
       "required" :true
     },   
     "HEROKU_API_KEY": {
