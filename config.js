@@ -5,7 +5,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 //═══════[Required Variables]════════\\
 global.audio= "" ;  
 global.video= "" ;
-global.devs = "923184474176"
+global.devs = "923195832822"
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL||""                       // put your app url here,
 global.email="samsamsun789@gmail.com"
@@ -13,38 +13,38 @@ global.location="Lahore,Punjab,Pakistan"
 global.mongodb= process.env.MONGODB_URI|| ""
 global.DATABASE_URI=process.env.DATABASE_URL
 global.allowJids= process.env.ALLOW_JID || "null" 
-global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
+global.blockJids= process.env.BLOCK_JID || "17863688449@s.whatsapp.net"
 global.scan="https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1";
-global.gurl= process.env.GURL   || "https://youtube.com/c/SuhailTechInfo";
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
-global.website =process.env.GURL|| "https://github.com/SuhailTechInfo/Suhail-Md" ; 
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
-global.THUMB_IMAGE=process.env.THUMB_IMAGE||"https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg" ;
+global.gurl= process.env.GURL   || "https://x.com/NSirm5?s=09";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
+global.website =process.env.GURL|| "https://github.com/kimsirm/Sirm-Md" ; 
+global.github=process.env.GITHUB|| "https://github.com/kimsirm/Sirm-Md";
+global.THUMB_IMAGE=process.env.THUMB_IMAGE||"https://i.imgur.com/AqFUKAm.jpeg" ;
 
 
 
 
 
 
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null,923184474176";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923184474176";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null,923195832822";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923195832822";
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Sirm-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
   style:process.env.STYLE|| "1",  // put '1' & "2" here to check bot styles
 
 
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.6",
-  caption:process.env.CAPTION || "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ™*\n*ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ* • 𝟭𝟰/𝟭𝟮/𝟮𝟬𝟮𝟯" ,// ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption:process.env.CAPTION || "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝐒𝐈𝐑𝐌²²¹-𝐌𝐃™*\n*ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ* • 𝟭𝟰/𝟭𝟮/𝟮𝟬𝟮𝟯" ,// ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『Follow • 𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏』*\n https://x.com/NSirm5?s=09"),
 
  
-  author: process.env.PACK_AUTHER || "Suhail-MD",
-  packname: process.env.PACK_NAME || "♥️👁️🙈💋 ",
-  botname: process.env.BOT_NAME   || "sᴜʜᴀɪʟ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "It'x Suhail",
+  author: process.env.PACK_AUTHER || "Sirm-MD",
+  packname: process.env.PACK_NAME || "Sirm ",
+  botname: process.env.BOT_NAME   || "𝐒𝐈𝐑𝐌-𝐌𝐃",
+  ownername:process.env.OWNER_NAME|| "𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏",
 
 
   sessionName:process.env.SESSION_ID|| "",
