@@ -15,7 +15,7 @@ global.DATABASE_URI=process.env.DATABASE_URL
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "17863688449@s.whatsapp.net"
 global.scan="https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1";
-global.gurl= process.env.GURL   || "https://x.com/NSirm5?s=09";
+global.gurl= process.env.GURL   || "https://wa.me/923195832822ʜᴇʟʟᴏ+𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.website =process.env.GURL|| "https://github.com/kimsirm/Sirm-Md" ; 
 global.github=process.env.GITHUB|| "https://github.com/kimsirm/Sirm-Md";
